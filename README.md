@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Exploring new projects to apply my programming skills and expand my portfolio.<br><br>👯 I’m looking to collaborate on<br>Exciting and challenging projects where I can contribute my skills and learn from others.<br><br>🤝 I’m looking for help with<br>Opportunities to gain hands-on experience and mentorship in the software development field.<br><br>🌱 I’m currently learning<br>More about machine learning algorithms, data structures, and web development frameworks.<br><br>💬 Ask me about<br>Programming languages, software development tools, and project management.<br><br>⚡ Fun fact<br>
+🔭 I’m currently working on<br>Exploring new projects to apply my programming skills and expand my portfolio.<br><br>🌱 I’m currently learning<br>More about machine learning algorithms, data structures, and web development frameworks.<br><br>
 
 
 ## 🌐 Socials:
@@ -11,12 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=niazis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niazis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niazis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=niazis&icon=0&color=0)](https://visitcount.itsvg.in)
